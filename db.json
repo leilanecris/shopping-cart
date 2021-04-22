@@ -1,0 +1,28 @@
+{
+  "ShoppingCarts": [
+    {
+      "id": 1,
+      "requisitioner": "Sebastian",
+      "item": "123",
+      "description": "SC item 1",
+      "price": "20.00",
+      "status": " "
+    },
+    {
+      "id": 2,
+      "requisitioner": "Steve",
+      "item": "456",
+      "description": "SC item 2",
+      "price": "30.00",
+      "status": " "
+    },
+    {
+      "id": 3,
+      "requisitioner": "Ann",
+      "item": "789",
+      "description": "SC item 3",
+      "price": "40.00",
+      "status": " "
+    }
+  ]
+}
